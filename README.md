@@ -33,6 +33,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
+## App Walkthrough GIF
+
+<img src="http://g.recordit.co/erjzKpCt34.gif" width=250> <br>
+
 Describe any challenges encountered while building the app.
 
 ## License
